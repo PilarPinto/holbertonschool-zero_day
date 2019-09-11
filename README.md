@@ -1,4 +1,4 @@
-     #Code Management*
+     #Code Management
       
       This repository contains the fundamentals for the source code management, in the file 0x00-vagrant you can find the first commits and push using the vagrant management SVM tool, addittionaly in the next folder 0x01 you can find some commands from emacs, in the folder 0x02 you can find some commans from vi and finally in the 0x03 folder you can find a git using of branching.
       
